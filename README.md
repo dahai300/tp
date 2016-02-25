@@ -1,3 +1,5 @@
+"copyed from bootstrap 2016-02-25"
+
 # [Bootstrap](http://getbootstrap.com)
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
